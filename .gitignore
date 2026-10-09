@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.chroma/
+chroma_db/
+agent_output.txt
+agent_error.txt
+sanity_*.txt
+*.pid
